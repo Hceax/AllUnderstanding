@@ -4,6 +4,6 @@ Using javascript language is very simple, based on ImageMagick drawing operation
 
 Use <b>sudo npm -p install gm</b> to install the background image processing module.
 
-You can use yum or get tool to download imageMagick.
+You can use yum or get tool to download <b>imageMagick.</b>
 
 You can use it later.
