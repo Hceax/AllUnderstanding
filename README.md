@@ -8,6 +8,7 @@ to install the background image processing module.<br/>
 
 You can use<br/>
 <b>sudo yum install imagemagick</b><br/>
+or<br/>
 <b>sudo apt install imagemagick</b><br/>
 to download the ImageMagick.<br/>
 
